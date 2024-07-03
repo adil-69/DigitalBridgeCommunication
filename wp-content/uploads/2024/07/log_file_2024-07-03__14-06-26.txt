@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 900
+Files info:
+Site URL = http://localhost/DigitalBridgeCommunication
+Data file = C:\xampp\htdocs\DigitalBridgeCommunication/wp-content/uploads/2024/07/demo-content-import-file_2024-07-03__14-06-26.xml
+Widget file = C:\xampp\htdocs\DigitalBridgeCommunication/wp-content/uploads/2024/07/demo-widgets-import-file_2024-07-03__14-06-26.json
+Customizer file = not defined!
+Redux files:
+portfex -> C:\xampp\htdocs\DigitalBridgeCommunication/wp-content/uploads/2024/07/demo-redux-import-file_0-2024-07-03__14-06-26.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+
+Footer : 
+
+Portfex: Footer Social - Follow Me - Imported
+Portfex: Footer Contact Info - Contact Info - Imported
+Text - Newsletter - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: portfex finished successfully!
+
+---ocdi/after_import---
+
