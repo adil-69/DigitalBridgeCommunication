@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress &#8211; digitalbridgecommunication</title>
+	<atom:link href="https://adil-69.github.io/DigitalBridgeCommunication/index.php/work_cat/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adil-69.github.io/DigitalBridgeCommunication</link>
+	<description></description>
+	<lastBuildDate>Wed, 03 Jul 2024 23:19:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>https://adil-69.github.io/DigitalBridgeCommunication/wp-content/uploads/2024/07/408625183_195523040222096_5291873743725613464_n.jpg</url>
+	<title>WordPress &#8211; digitalbridgecommunication</title>
+	<link>https://adil-69.github.io/DigitalBridgeCommunication</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Website Template Design</title>
+		<link>https://adil-69.github.io/DigitalBridgeCommunication/index.php/work/website-template-design/</link>
+		
+		<dc:creator><![CDATA[adil]]></dc:creator>
+		<pubDate>Sat, 10 Feb 2024 04:35:19 +0000</pubDate>
+				<guid isPermaLink="false">https://getmasum.com/themes-wp/portfex/?post_type=work&#038;p=187</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae interdum enim. Mauris tempus erat ut metus placerat tristiqu Cras eget elit ut neque convallis sagittis. Vestibulum ornare, libero vitae [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="187" class="elementor elementor-187">
+				<div class="elementor-element elementor-element-7de5af8 e-flex e-con-boxed e-con e-parent" data-id="7de5af8" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-027dadc elementor-widget elementor-widget-text-editor" data-id="027dadc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae interdum enim. Mauris tempus erat ut metus placerat tristiqu Cras eget elit ut neque convallis sagittis. Vestibulum ornare, libero vitae commodo elementum, nisl felis pharetra massa, vel egestas ex elit nec massa. Donec facilisis nulla sed sapien aliquet accumsan. Ut iaculis tellus at felis ornare, id faucibus eros pharetra. Fusce dignissim massa sit amet diam aliquet luctus. Nullam rhoncus arcu et urna eleifend faucibus. Curabitur sed massa eu nulla facilisis accumsan non nec lacus. Morbi bibendum gravida dui, quis laoreet enim consectetur vel. 
+</p>
+<p>
+Quisque vitae tortor tempor, gravida neque non, mollis nunc. Donec ac congue ex, ac euismod elit. Sed ullamcorper congue lectus ac vehicula. Sed id lacus id lorem auctor ultrices. Morbi facilisis at elit sed luctus. Nulla eget rhoncus nibh. Vestibulum molestie tempor massa quis vehicula.					
+</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-dd1cf8b e-flex e-con-boxed e-con e-parent" data-id="dd1cf8b" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-128a961 elementor-widget elementor-widget-portfex-buttons" data-id="128a961" data-element_type="widget" data-widget_type="portfex-buttons.default">
+				<div class="elementor-widget-container">
+						<a href="#"  class="yellow_btn yb2">Live Demo</a>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a14e803 e-flex e-con-boxed e-con e-parent" data-id="a14e803" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-03e074c elementor-widget elementor-widget-heading" data-id="03e074c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Project Checklist</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-864a625 e-flex e-con-boxed e-con e-parent" data-id="864a625" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-14a7cb3 e-con-full e-flex e-con e-child" data-id="14a7cb3" data-element_type="container">
+				<div class="elementor-element elementor-element-749f9f6 elementor-widget elementor-widget-text-editor" data-id="749f9f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+										</ul>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3b2d1e4 e-con-full e-flex e-con e-child" data-id="3b2d1e4" data-element_type="container">
+				<div class="elementor-element elementor-element-780bcda elementor-widget elementor-widget-text-editor" data-id="780bcda" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+										</ul>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b5aab4e e-con-full e-flex e-con e-child" data-id="b5aab4e" data-element_type="container">
+				<div class="elementor-element elementor-element-2133409 elementor-widget elementor-widget-text-editor" data-id="2133409" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+											<li>Quisque vitae tortor tempor</li>
+										</ul>						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-10bf79e e-flex e-con-boxed e-con e-parent" data-id="10bf79e" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-807776d e-con-full e-flex e-con e-child" data-id="807776d" data-element_type="container">
+				<div class="elementor-element elementor-element-56136f9 elementor-widget elementor-widget-portfex-portfolio-img" data-id="56136f9" data-element_type="widget" data-widget_type="portfex-portfolio-img.default">
+				<div class="elementor-widget-container">
+					
+		<div class="pdimage">
+			<a href="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s4.jpg" class="popbtn"><img decoding="async" src="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s4.jpg" alt="portfolio image"></a>
+		</div>		
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-821d9e5 e-con-full e-flex e-con e-child" data-id="821d9e5" data-element_type="container">
+				<div class="elementor-element elementor-element-b7145ba elementor-widget elementor-widget-portfex-portfolio-img" data-id="b7145ba" data-element_type="widget" data-widget_type="portfex-portfolio-img.default">
+				<div class="elementor-widget-container">
+					
+		<div class="pdimage">
+			<a href="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s3.jpg" class="popbtn"><img decoding="async" src="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s3.jpg" alt="portfolio image"></a>
+		</div>		
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f5e80a5 e-flex e-con-boxed e-con e-parent" data-id="f5e80a5" data-element_type="container">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-8f8464f e-con-full e-flex e-con e-child" data-id="8f8464f" data-element_type="container">
+				<div class="elementor-element elementor-element-8935014 elementor-widget elementor-widget-portfex-portfolio-img" data-id="8935014" data-element_type="widget" data-widget_type="portfex-portfolio-img.default">
+				<div class="elementor-widget-container">
+					
+		<div class="pdimage">
+			<a href="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s2-1.jpg" class="popbtn"><img decoding="async" src="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s2-1.jpg" alt="portfolio image"></a>
+		</div>		
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ad9bb24 e-con-full e-flex e-con e-child" data-id="ad9bb24" data-element_type="container">
+				<div class="elementor-element elementor-element-91be851 elementor-widget elementor-widget-portfex-portfolio-img" data-id="91be851" data-element_type="widget" data-widget_type="portfex-portfolio-img.default">
+				<div class="elementor-widget-container">
+					
+		<div class="pdimage">
+			<a href="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s1-1.jpg" class="popbtn"><img decoding="async" src="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s1-1.jpg" alt="portfolio image"></a>
+		</div>		
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e0cd474 e-con-full e-flex e-con e-child" data-id="e0cd474" data-element_type="container">
+				<div class="elementor-element elementor-element-464fbe7 elementor-widget elementor-widget-portfex-portfolio-img" data-id="464fbe7" data-element_type="widget" data-widget_type="portfex-portfolio-img.default">
+				<div class="elementor-widget-container">
+					
+		<div class="pdimage">
+			<a href="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s5.jpg" class="popbtn"><img decoding="async" src="https://getmasum.com/themes-wp/portfex/wp-content/uploads/2024/02/s5.jpg" alt="portfolio image"></a>
+		</div>		
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-b1b7ed1 e-flex e-con-boxed e-con e-parent" data-id="b1b7ed1" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ea2349a elementor-widget elementor-widget-text-editor" data-id="ea2349a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vitae interdum enim. Mauris tempus erat ut metus placerat tristiqu Cras eget elit ut neque convallis sagittis. Vestibulum ornare, libero vitae commodo elementum, nisl felis pharetra massa, vel egestas ex elit nec massa. Donec facilisis nulla sed sapien aliquet accumsan. Ut iaculis tellus at felis ornare, id faucibus eros pharetra. Fusce dignissim massa sit amet diam aliquet luctus. Nullam rhoncus arcu et urna eleifend faucibus. Curabitur sed massa eu nulla facilisis accumsan non nec lacus. Morbi bibendum gravida dui, quis laoreet enim consectetur vel. 
+</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-da6b040 elementor-widget elementor-widget-text-editor" data-id="da6b040" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							 Curabitur sed massa eu nulla facilisis accumsan non nec lacus. Morbi bibendum gravida dui, quis laoreet enim consectetur vel. Quisque vitae tortor tempor, gravida neque non, mollis nunc. Donec ac congue ex, ac euismod elit. Sed ullamcorper congue lectus ac vehicula. Sed id lacus id lorem auctor ultrices. Morbi facilisis at elit sed luctus. Nulla eget rhoncus nibh. Vestibulum molestie tempor massa quis vehicula. 						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
