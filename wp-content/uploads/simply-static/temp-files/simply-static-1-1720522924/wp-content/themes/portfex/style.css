@@ -1,0 +1,493 @@
+/*!
+Theme Name: Portfex
+Theme URI: https://getmasum.com/themes-wp/portfex/
+Author: Themesvila
+Author URI: https://themeforest.net/user/themesvila
+Description: A Personal Portfolio Resume WordPress Theme
+Version: 1.1
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: portfex
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Portfex is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+# Components
+	- Posts and pages
+	- Comments
+	- Widgets
+	- Media
+	- Captions
+	- Galleries
+# plugins
+	- Jetpack infinite scroll
+# Utilities
+	- Accessibility
+	- Alignments
+
+--------------------------------------------------------------*/
+
+
+
+/* Posts and pages
+--------------------------------------------- */
+.sticky {
+	display: block;
+}
+
+.post,
+.page {
+	margin: 0 0 1.5em;
+}
+
+.updated:not(.published) {
+	display: none;
+}
+#cancel-comment-reply-link{
+	margin-left: 15px;
+}
+.entry-content ul,
+.entry-content ol,
+.com-content ul,
+.com-content ol{
+	padding-left: 1.5rem;
+}
+.page-content,
+.entry-content,
+.entry-summary {
+	margin: 0 0 0;
+}
+.wp-block-cover{
+	margin-bottom: 15px;
+	color: #fff;
+}
+.wp-block-media-text{
+	margin-bottom: 15px;
+}
+.wp-block-column{
+	padding: 15px;
+}
+.wp-block-button__link{
+	margin-bottom: 15px;
+}
+.wp-block-button__link:hover,
+.wp-block-button__link:focus{
+	color: #fff;
+}
+.page-links {
+	clear: both;
+	margin: 20px 0 0;
+}
+.single-post{
+	-ms-word-wrap: break-word;
+	word-wrap: break-word;
+}
+.wp-block-comments .wp-block-avatar{
+	width: 40px;
+	height: 40px;
+}
+.wp-block-comments .comment-reply-link{
+	font-size: 12px;
+	line-height: 37px;
+}
+.wp-block-comments .comment-form .form-control,
+.comment-respond.wp-block-post-comments-form textarea {
+	padding: 10px 0;
+	font-size: 18px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+/* Comments
+--------------------------------------------- */
+.comment_img{
+	position: relative;
+	width: 100px;
+}
+.comment-content a {
+	word-wrap: break-word;
+}
+
+.bypostauthor {
+	display: block;
+}
+#respond{
+	padding-top: 30px;
+}
+
+/* Widgets
+--------------------------------------------- */
+.widget {
+
+}
+dl {
+  margin: 0 20px;
+}
+dd {
+	margin-bottom: 12px;
+}
+table {
+	border-bottom: 1px solid #ededed;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-size: 14px;
+	line-height: 2;
+	margin: 0 0 20px;
+	width: 100%;
+	text-align: center;
+}
+caption, th, td {
+    font-weight: normal;
+    text-align: center;
+}
+caption {
+	font-size: 16px;
+	margin: 0;
+	padding-top: 0;
+}
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+td {
+    border-top: 1px solid #ededed;
+    padding: 6px 10px 6px 0;
+}
+tr{
+	 padding: 6px 10px 6px 0;
+}
+del {
+    color: #333;
+}
+select{
+	border: 1px solid #ddd;
+	padding: 12px 15px;
+	background-color: #fff;
+	border-radius: 4px;
+}
+.widget select {
+	width: 100%;
+}
+.widget li li{
+	padding-left: 15px;
+}
+.wp-block-latest-comments{
+	padding-left: 0;
+}
+.wp-block-heading{
+	margin-bottom: 25px;
+}
+.wp-block-search__inside-wrapper {
+	position: relative;
+}
+.wp-block-search__inside-wrapper {}
+.widget a{
+	transition: .5s;
+}
+.widget_categories ul li{
+	position: relative;
+	padding-left: 26px;
+}
+.widget_categories ul li::before {
+	content: '';
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background-color: #C9F31D;
+	border-radius: 50%;
+	left: 0;
+	top: 9px;
+}
+.widget_categories ul li li:before{
+	display: none;
+}
+.widget_categories ul li li{
+	padding-left: 0;
+}
+.widget a:hover,
+.widget a:focus{
+	color: #C9F31D;
+}
+.widget li {
+	border-bottom: 1px solid #f1f1f1;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.widget li:last-child{
+	border-bottom: unset;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+.tagcloud a {
+	font-size: 14px !important;
+	border: 1px solid #ddd;
+	padding: 4px 12px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	display: inline-block;
+	margin-right: 10px;
+	transition: .5s;
+}
+.tagcloud a:hover,
+.tagcloud a:focus{
+	color: #222;
+	background: #C9F31D;
+}
+
+.popular-posts-widget{
+	
+}
+.popular-posts-widget li{
+	display: block;
+	margin-bottom: 22px;
+	overflow: hidden;
+	border: inherit;
+}
+.popular-posts-widget li:last-child{
+	margin-bottom: 0;
+}
+.popular-posts-widget h4{
+	transition: .5s;
+}
+.popular-posts-widget a{
+	display: block;
+	transition: .5s;
+}
+
+.ppimage{
+	width: 70px;
+	margin-right: 15px;
+}
+.ppimage img{
+	border-radius: 50%;
+}
+.ppcontent{
+	overflow: hidden;
+}
+.ppcontent h4{
+	font-size: 18px;
+	margin-top: 10px;
+}
+.ppcontent span {
+	position: relative;
+	padding-left: 19px;
+	font-size: 16px;
+	color: #1C3F39;
+}
+.ppcontent span::before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 10px;
+	width: 12px;
+	height: 1px;
+	background: #444;
+	display: block;
+}
+.widget_portfex-about-me{
+	padding: 0;
+}
+.widget_portfex-about-me li{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	border: unset;
+}
+
+/* Media
+--------------------------------------------- */
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+
+/* Make sure logo link wraps around logo image. */
+.custom-logo-link {
+	display: inline-block;
+}
+
+/* Captions
+--------------------------------------------- */
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+
+.wp-caption-text {
+	text-align: center;
+}
+
+/* Galleries
+--------------------------------------------- */
+.gallery {
+	margin-bottom: 1.5em;
+	display: grid;
+	grid-gap: 1.5em;
+}
+
+.gallery-item {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+}
+
+.gallery-columns-2 {
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.gallery-columns-3 {
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.gallery-columns-4 {
+	grid-template-columns: repeat(4, 1fr);
+}
+
+.gallery-columns-5 {
+	grid-template-columns: repeat(5, 1fr);
+}
+
+.gallery-columns-6 {
+	grid-template-columns: repeat(6, 1fr);
+}
+
+.gallery-columns-7 {
+	grid-template-columns: repeat(7, 1fr);
+}
+
+.gallery-columns-8 {
+	grid-template-columns: repeat(8, 1fr);
+}
+
+.gallery-columns-9 {
+	grid-template-columns: repeat(9, 1fr);
+}
+
+.gallery-caption {
+	display: block;
+}
+.wp-block-gallery.alignleft{
+	margin-right: 15px;
+}
+
+/*--------------------------------------------------------------
+# Plugins
+--------------------------------------------------------------*/
+
+/* Jetpack infinite scroll
+--------------------------------------------- */
+
+/* Hide the Posts Navigation and the Footer when Infinite Scroll is in use. */
+.infinite-scroll .posts-navigation,
+.infinite-scroll.neverending .site-footer {
+	display: none;
+}
+
+/* Re-display the Theme Footer when Infinite Scroll has reached its end. */
+.infinity-end.neverending .site-footer {
+	display: block;
+}
+
+/*--------------------------------------------------------------
+# Utilities
+--------------------------------------------------------------*/
+
+/* Accessibility
+--------------------------------------------- */
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important;
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	clip-path: none;
+	color: #21759b;
+	display: block;
+	font-size: 0.875rem;
+	font-weight: 700;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+}
+
+/* Do not show the outline on the skip link target. */
+#primary[tabindex="-1"]:focus {
+	outline: 0;
+}
+
+/* Alignments
+--------------------------------------------- */
+.alignleft {
+
+	/*rtl:ignore*/
+	float: left;
+
+	/*rtl:ignore*/
+	margin-right: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.alignright {
+
+	/*rtl:ignore*/
+	float: right;
+
+	/*rtl:ignore*/
+	margin-left: 1.5em;
+	margin-bottom: 1.5em;
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1.5em;
+}
